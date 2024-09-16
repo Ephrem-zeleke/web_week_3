@@ -1,0 +1,22 @@
+#real-alert{
+    font-size: 30px;
+    font-weight: bold;
+    color:red;
+    background-color: black;
+    border:2px solid green;
+    padding: 10px;
+    margin: 20px
+
+}
+#test-only{
+    font-size: 30px;
+    font-weight: bold;
+    color:yellow;
+    background-color: black;
+    border:2px solid green;
+    padding:10px;
+    margin: 20px;
+}
+.missile-link{
+    display: block;
+}
